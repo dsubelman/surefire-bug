@@ -10,6 +10,12 @@
 	<packaging>pom</packaging>
 	<name>Sample Project</name>
 	<description>Surefire v3.3.0-M6 bug</description>
+	<developers>
+		<developer>
+			<id>dsubelman</id>
+			<name>Daniel Subelman</name>
+		</developer>
+	</developers>
 	
 	<modules>
 		<module>module1</module>
