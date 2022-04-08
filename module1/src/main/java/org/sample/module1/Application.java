@@ -1,5 +1,8 @@
 package org.sample.module1;
 
+/**
+ * @author Daniel Subelman
+ */
 public class Application {
 
 	private final String name;

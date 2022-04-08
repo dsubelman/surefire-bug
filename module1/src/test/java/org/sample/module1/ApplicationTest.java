@@ -4,6 +4,9 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+/**
+ * @author Daniel Subelman
+ */
 public class ApplicationTest {
 
 	private final String name = "Test";
