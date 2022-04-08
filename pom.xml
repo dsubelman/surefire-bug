@@ -10,6 +10,7 @@
 	<packaging>pom</packaging>
 	<name>Sample Project</name>
 	<description>Surefire v3.3.0-M6 bug</description>
+	<inceptionYear>2022</inceptionYear>
 	<developers>
 		<developer>
 			<id>dsubelman</id>
